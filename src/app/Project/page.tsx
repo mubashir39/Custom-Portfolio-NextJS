@@ -1,11 +1,11 @@
+import Project from '@/components/Project'
+
 import React from 'react'
-import Hero from '@/components/Hero';
 
 const page = () => {
   return (
     <div>
-      <Hero/>
-     
+      <Project/>
     </div>
   )
 }
